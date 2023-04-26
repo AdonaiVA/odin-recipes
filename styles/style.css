@@ -1,0 +1,38 @@
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    display: flex;
+}
+
+
+ul{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 30px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(9, 9, 7);
+    background: whitesmoke;
+}
+
+h2{
+    background: yellow;
+}
+ol{
+    background: ghostwhite;
+}
